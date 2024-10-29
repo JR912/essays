@@ -19,6 +19,7 @@ families and couples enjoying the coastal air. Margate's charm lay not only
 in its attractions but also in its artistic heritage, famously inspiring
 painters such as J.M.W. Turner.
 .ve-media wc:Margate_Pier.jpg
+.ve-map Q618045 8 marker width=50%
 
 Deal, known for its quaint charm, boasted a picturesque seafront with its
 historic pier, completed in 1857. Unlike the more commercialized resorts,
